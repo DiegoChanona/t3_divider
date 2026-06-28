@@ -1,0 +1,277 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11f vlog 2024.3 2024.09, Sep 10 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/diego/AppData/Local/quartus
+T_opt
+!s110 1782600088
+V>8=@h13L16VPkHAKNnF2K0
+04 10 4 work tb_divider fast 0
+=1-200b746dff95-6a405197-3b1-68ac
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM10U326 
+!s135 nogc
+o-quiet -auto_acc_if_foreign -work work +acc
+Z1 tCvgOpt 0
+n@_opt
+OL;O;2024.3;79
+vcond_neg
+2C:/quartus/aritmetica_digital/t3_divider/src/cond_neg.sv
+Z2 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+Z3 !s110 1782600074
+!i10b 1
+!s100 `1XKTlgR>lidUdQ[fOGjb0
+Ikn1VWZ4K?AAXLVb>9@jX]0
+S1
+Z4 dC:/quartus/aritmetica_digital/t3_divider/proq_questa
+w1782359921
+8C:/quartus/aritmetica_digital/t3_divider/src/cond_neg.sv
+FC:/quartus/aritmetica_digital/t3_divider/src/cond_neg.sv
+!i122 0
+L0 9 9
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2024.3;79
+r1
+!s85 0
+31
+Z7 !s108 1782600074.000000
+!s107 C:/quartus/aritmetica_digital/t3_divider/src/cond_neg.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/quartus/aritmetica_digital/t3_divider/src/cond_neg.sv|
+!i113 0
+Z8 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+vcsa
+2C:/quartus/aritmetica_digital/t3_divider/src/csa.sv
+R2
+R3
+!i10b 1
+!s100 Bzd;9[8Qc2A[zhii4ID:83
+IWmBo<>P56L@1PTicmCG:E1
+S1
+R4
+w1780871920
+8C:/quartus/aritmetica_digital/t3_divider/src/csa.sv
+FC:/quartus/aritmetica_digital/t3_divider/src/csa.sv
+!i122 1
+L0 3 17
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/quartus/aritmetica_digital/t3_divider/src/csa.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/quartus/aritmetica_digital/t3_divider/src/csa.sv|
+!i113 0
+R8
+R1
+vdivider
+2C:/quartus/aritmetica_digital/t3_divider/src/divider.sv
+R2
+Z9 !s110 1782600075
+!i10b 1
+!s100 VD4J2S^YEVN5:H;3G5nUD1
+IQE?h7[iDE7H>OGZzQWgFd2
+S1
+R4
+w1782596227
+8C:/quartus/aritmetica_digital/t3_divider/src/divider.sv
+FC:/quartus/aritmetica_digital/t3_divider/src/divider.sv
+!i122 2
+L0 4 67
+R5
+R6
+r1
+!s85 0
+31
+Z10 !s108 1782600075.000000
+!s107 C:/quartus/aritmetica_digital/t3_divider/src/divider.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/quartus/aritmetica_digital/t3_divider/src/divider.sv|
+!i113 0
+R8
+R1
+vdivider_comp
+2C:/quartus/aritmetica_digital/t3_divider/src/divider_comp.sv
+R2
+R9
+!i10b 1
+!s100 B==j@jo?>U4Kb<2H3>FEU3
+I`R;eMnAcci?z4JdP=@jV23
+S1
+R4
+w1782359956
+8C:/quartus/aritmetica_digital/t3_divider/src/divider_comp.sv
+FC:/quartus/aritmetica_digital/t3_divider/src/divider_comp.sv
+!i122 3
+L0 6 27
+R5
+R6
+r1
+!s85 0
+31
+R10
+!s107 C:/quartus/aritmetica_digital/t3_divider/src/divider_comp.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/quartus/aritmetica_digital/t3_divider/src/divider_comp.sv|
+!i113 0
+R8
+R1
+vlzc
+2C:/quartus/aritmetica_digital/t3_divider/src/lzc.sv
+R2
+R9
+!i10b 1
+!s100 eEkDedm2nZe;1fC?1Dj?O1
+I9g?mQnW7;DC=KPmLEm5<P3
+S1
+R4
+w1782274630
+8C:/quartus/aritmetica_digital/t3_divider/src/lzc.sv
+FC:/quartus/aritmetica_digital/t3_divider/src/lzc.sv
+!i122 4
+L0 9 30
+R5
+R6
+r1
+!s85 0
+31
+R10
+!s107 C:/quartus/aritmetica_digital/t3_divider/src/lzc.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/quartus/aritmetica_digital/t3_divider/src/lzc.sv|
+!i113 0
+R8
+R1
+vqds
+2C:/quartus/aritmetica_digital/t3_divider/src/qds.sv
+R2
+R9
+!i10b 1
+!s100 RKTILW^nDOSh<OVbbVA6h3
+I3^PC<MYLJT8UXel[Z<0<j0
+S1
+R4
+w1782596360
+8C:/quartus/aritmetica_digital/t3_divider/src/qds.sv
+FC:/quartus/aritmetica_digital/t3_divider/src/qds.sv
+!i122 5
+L0 7 12
+R5
+R6
+r1
+!s85 0
+31
+R10
+!s107 C:/quartus/aritmetica_digital/t3_divider/src/qds.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/quartus/aritmetica_digital/t3_divider/src/qds.sv|
+!i113 0
+R8
+R1
+vsrt_preprocess
+2C:/quartus/aritmetica_digital/t3_divider/src/srt_preprocess.sv
+R2
+R9
+!i10b 1
+!s100 O@G:WJGScMhSTbdEFl<eR3
+IYa4YdQzVK4@WOd:0ok`[>2
+S1
+R4
+w1782596294
+8C:/quartus/aritmetica_digital/t3_divider/src/srt_preprocess.sv
+FC:/quartus/aritmetica_digital/t3_divider/src/srt_preprocess.sv
+!i122 6
+L0 4 25
+R5
+R6
+r1
+!s85 0
+31
+R10
+!s107 C:/quartus/aritmetica_digital/t3_divider/src/srt_preprocess.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/quartus/aritmetica_digital/t3_divider/src/srt_preprocess.sv|
+!i113 0
+R8
+R1
+vsrt_quot
+2C:/quartus/aritmetica_digital/t3_divider/src/srt_quot.sv
+R2
+R9
+!i10b 1
+!s100 ijFoQaE0UlSc[O?hZL3`?1
+I>c;ke]L13^7CiYjc^A?HK0
+S1
+R4
+w1782533388
+8C:/quartus/aritmetica_digital/t3_divider/src/srt_quot.sv
+FC:/quartus/aritmetica_digital/t3_divider/src/srt_quot.sv
+!i122 7
+L0 4 13
+R5
+R6
+r1
+!s85 0
+31
+R10
+!s107 C:/quartus/aritmetica_digital/t3_divider/src/srt_quot.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/quartus/aritmetica_digital/t3_divider/src/srt_quot.sv|
+!i113 0
+R8
+R1
+vsrt_stage
+2C:/quartus/aritmetica_digital/t3_divider/src/srt_stage.sv
+R2
+Z11 !s110 1782600076
+!i10b 1
+!s100 BiQDh7j`e66m[5>M[0MH:3
+I<gKDJQ7:DDk3<KQCVSGg?1
+S1
+R4
+w1782365625
+8C:/quartus/aritmetica_digital/t3_divider/src/srt_stage.sv
+FC:/quartus/aritmetica_digital/t3_divider/src/srt_stage.sv
+!i122 8
+L0 2 28
+R5
+R6
+r1
+!s85 0
+31
+Z12 !s108 1782600076.000000
+!s107 C:/quartus/aritmetica_digital/t3_divider/src/srt_stage.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/quartus/aritmetica_digital/t3_divider/src/srt_stage.sv|
+!i113 0
+R8
+R1
+vtb_divider
+2C:/quartus/aritmetica_digital/t3_divider/src/tb/tb_divider.sv
+R2
+R11
+!i10b 1
+!s100 eS0zjI]GB=jZWL=OL07l[3
+I48^c?RPLXliRRo3m5AQI;2
+S1
+R4
+w1782275592
+8C:/quartus/aritmetica_digital/t3_divider/src/tb/tb_divider.sv
+FC:/quartus/aritmetica_digital/t3_divider/src/tb/tb_divider.sv
+!i122 9
+L0 5 93
+R5
+R6
+r1
+!s85 0
+31
+R12
+!s107 C:/quartus/aritmetica_digital/t3_divider/src/tb/tb_divider.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|C:/quartus/aritmetica_digital/t3_divider/src/tb/tb_divider.sv|
+!i113 0
+R8
+R1

@@ -1,0 +1,74 @@
+C:/quartus/aritmetica_digital/t3_divider/src/divider_srt.sv {1 {vlog -work work -vopt -sv -stats=none C:/quartus/aritmetica_digital/t3_divider/src/divider_srt.sv
+Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
+
+} {} {}} C:/quartus/aritmetica_digital/t3_divider/src/divider.sv {1 {vlog -work work -vopt -sv -stats=none C:/quartus/aritmetica_digital/t3_divider/src/divider.sv
+Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
+-- Compiling module divider
+
+Top level modules:
+	divider
+
+} {} {}} C:/quartus/aritmetica_digital/t3_divider/src/csa.sv {1 {vlog -work work -vopt -sv -stats=none C:/quartus/aritmetica_digital/t3_divider/src/csa.sv
+Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
+-- Compiling module csa
+
+Top level modules:
+	csa
+
+} {} {}} C:/quartus/aritmetica_digital/t3_divider/src/srt_stage.sv {1 {vlog -work work -vopt -sv -stats=none C:/quartus/aritmetica_digital/t3_divider/src/srt_stage.sv
+Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
+-- Compiling module srt_stage
+
+Top level modules:
+	srt_stage
+
+} {} {}} C:/quartus/aritmetica_digital/t3_divider/src/qds.sv {1 {vlog -work work -vopt -sv -stats=none C:/quartus/aritmetica_digital/t3_divider/src/qds.sv
+Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
+-- Compiling module qds
+
+Top level modules:
+	qds
+
+} {} {}} C:/quartus/aritmetica_digital/t3_divider/src/tb/tb_divider.sv {1 {vlog -work work -vopt -sv -stats=none C:/quartus/aritmetica_digital/t3_divider/src/tb/tb_divider.sv
+Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
+-- Compiling module tb_divider
+
+Top level modules:
+	tb_divider
+
+} {} {}} C:/quartus/aritmetica_digital/t3_divider/src/srt_quot.sv {1 {vlog -work work -vopt -sv -stats=none C:/quartus/aritmetica_digital/t3_divider/src/srt_quot.sv
+Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
+-- Compiling module srt_quot
+
+Top level modules:
+	srt_quot
+
+} {} {}} C:/quartus/aritmetica_digital/t3_divider/src/lzc.sv {1 {vlog -work work -vopt -sv -stats=none C:/quartus/aritmetica_digital/t3_divider/src/lzc.sv
+Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
+-- Compiling module lzc
+
+Top level modules:
+	--none--
+
+} {} {}} C:/quartus/aritmetica_digital/t3_divider/src/divider_comp.sv {1 {vlog -work work -vopt -sv -stats=none C:/quartus/aritmetica_digital/t3_divider/src/divider_comp.sv
+Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
+-- Compiling module divider_comp
+
+Top level modules:
+	divider_comp
+
+} {} {}} C:/quartus/aritmetica_digital/t3_divider/src/cond_neg.sv {1 {vlog -work work -vopt -sv -stats=none C:/quartus/aritmetica_digital/t3_divider/src/cond_neg.sv
+Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
+-- Compiling module cond_neg
+
+Top level modules:
+	cond_neg
+
+} {} {}} C:/quartus/aritmetica_digital/t3_divider/src/srt_preprocess.sv {1 {vlog -work work -vopt -sv -stats=none C:/quartus/aritmetica_digital/t3_divider/src/srt_preprocess.sv
+Questa Intel Starter FPGA Edition-64 vlog 2024.3 Compiler 2024.09 Sep 10 2024
+-- Compiling module srt_preprocess
+
+Top level modules:
+	srt_preprocess
+
+} {} {}}
